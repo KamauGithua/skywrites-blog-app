@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>admin hello</h1>
+    <h1>admin dashboard</h1>
 
     <form method="POST" action="{{ route('logout') }}">
         @csrf
